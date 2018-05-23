@@ -1,0 +1,17 @@
+D:\Core-App\CoreApp.DataProvider\bin\Debug\CoreApp.DataProvider.dll
+D:\Core-App\CoreApp.DataProvider\bin\Debug\CoreApp.DataProvider.pdb
+D:\Core-App\CoreApp.DataProvider\obj\Debug\CoreApp.DataProvider.csproj.CoreCompileInputs.cache
+D:\Core-App\CoreApp.DataProvider\obj\Debug\CoreApp.DataProvider.dll
+D:\Core-App\CoreApp.DataProvider\obj\Debug\CoreApp.DataProvider.pdb
+D:\Core-App\CoreApp.DataProvider\bin\Debug\CoreApp.DataProvider.dll.config
+D:\Core-App\CoreApp.DataProvider\bin\Debug\EntityFramework.dll
+D:\Core-App\CoreApp.DataProvider\bin\Debug\EntityFramework.SqlServer.dll
+D:\Core-App\CoreApp.DataProvider\bin\Debug\EntityFramework.xml
+D:\Core-App\CoreApp.DataProvider\bin\Debug\EntityFramework.SqlServer.xml
+D:\Core-App\CoreApp.DataProvider\obj\Debug\CoreApp.DataProvider.csprojResolveAssemblyReference.cache
+D:\Core-App\CoreApp.DataProvider\obj\Debug\CoreApp.DataProvider.csproj.CopyComplete
+D:\Core-App\CoreApp.DataProvider\bin\Debug\AutoMapper.dll
+D:\Core-App\CoreApp.DataProvider\bin\Debug\AutoMapper.xml
+D:\Core-App\CoreApp.DataProvider\bin\Debug\CoreApp.Models.dll
+D:\Core-App\CoreApp.DataProvider\bin\Debug\CoreApp.Models.pdb
+D:\Core-App\CoreApp.DataProvider\bin\Debug\CoreApp.Models.dll.config

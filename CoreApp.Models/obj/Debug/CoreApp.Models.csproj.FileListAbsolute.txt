@@ -1,0 +1,13 @@
+D:\Core-App\CoreApp.Models\bin\Debug\CoreApp.Models.dll
+D:\Core-App\CoreApp.Models\bin\Debug\CoreApp.Models.pdb
+D:\Core-App\CoreApp.Models\obj\Debug\CoreApp.Models.csproj.CoreCompileInputs.cache
+D:\Core-App\CoreApp.Models\obj\Debug\CoreApp.Models.dll
+D:\Core-App\CoreApp.Models\obj\Debug\CoreApp.Models.pdb
+D:\Core-App\CoreApp.Models\bin\Debug\CoreApp.Models.dll.config
+D:\Core-App\CoreApp.Models\bin\Debug\EntityFramework.dll
+D:\Core-App\CoreApp.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Core-App\CoreApp.Models\bin\Debug\EntityFramework.xml
+D:\Core-App\CoreApp.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Core-App\CoreApp.Models\obj\Debug\CoreApp.Models.csproj.CopyComplete
+D:\Core-App\CoreApp.Models\bin\Debug\AutoMapper.dll
+D:\Core-App\CoreApp.Models\bin\Debug\AutoMapper.xml
