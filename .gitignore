@@ -1,5 +1,5 @@
-*.dll
-*.pdb
-*.config
-*.bin
-*.obj
+*.suo
+*.user
+bin
+obj
+packages
